@@ -15,7 +15,7 @@ Part 1: Classifying
 
 Part 2: Generating
 - [x] Data Preprocessing
-- [x] Stable Diffusion (online, no modifiers)
+- [x] Stable Diffusion ([online] (https://diffusion.chat), no modifiers)
 - [ ] Dreambooth Text-to-Image (CompVis trained on DHMC dataset)
 - [ ] Textual Inversion (will try on several tokens such as types of RCC)
 - [ ] Text-to-Image (if time + money allows)
