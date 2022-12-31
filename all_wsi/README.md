@@ -2,7 +2,7 @@ This is a placeholder for the dataset files. In a development environment, extra
 
 Example file structure:
 
-workspace
+```workspace
 ├── all_wsi
 │   ├── DHMC_wsi_01
 │   ├── DHMC_wsi_02
@@ -16,3 +16,4 @@ workspace
 │   ├── DHMC_wsi_10
 │   └── DHMC_wsi_11
 └── ...
+```
