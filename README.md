@@ -1,3 +1,4 @@
+![NEPHRONET BANNER](https://user-images.githubusercontent.com/69687926/210128775-81ba28dc-2aaf-46dc-bd4e-7d0de5ada559.png)
 ## NephroNet: A Novel Program for Identifying Renal Cell Carcinoma and Generating Synthetic Training Images with Convolutional Neural Networks and Diffusion Models
 
 ### Updates
