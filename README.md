@@ -17,7 +17,7 @@ Part 2: Generating
 - [x] Data Preprocessing
 - [x] Stable Diffusion ([online](https://diffusion.chat), no modifiers)
 - [x] Dreambooth Text-to-Image (CompVis trained on DHMC dataset, fine-tuned UNet and later fine-tuned text encoder)
-- [ ] Textual Inversion (will try on several tokens such as types of RCC)
+- [x] Textual Inversion (will try on several tokens such as types of RCC)
 - [ ] Text-to-Image (if time + money allows)
 - [ ] Unconditional Image Generation (if time + money allows)
 
